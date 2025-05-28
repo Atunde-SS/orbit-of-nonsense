@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "./Heregade.png"
+import logo from "./logo.png"
 // base of code : https://codepen.io/beno1t/pen/drvjQy
 
 export default function Logo() {
